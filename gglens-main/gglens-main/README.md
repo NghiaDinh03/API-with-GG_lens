@@ -1,0 +1,1 @@
+# [PHP] gglens - bypass captcha, text-detect 
